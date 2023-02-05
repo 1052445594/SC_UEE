@@ -32,4 +32,6 @@ If an attacker can self-destruct the contract by calling the selfdestruct(addres
 If the contract can receive ether but cannot transfer it by itself, it is vulnerable to FE. 
 
 
-For the purpose of protection for smart contracts, the dataset can be available after request.
+**For the purpose of protection for smart contracts, the dataset can be available after request.**
+
+
